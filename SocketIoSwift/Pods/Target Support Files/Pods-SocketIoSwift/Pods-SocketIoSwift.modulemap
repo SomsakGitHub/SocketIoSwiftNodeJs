@@ -1,0 +1,6 @@
+framework module Pods_SocketIoSwift {
+  umbrella header "Pods-SocketIoSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
